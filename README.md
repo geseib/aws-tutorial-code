@@ -11,3 +11,5 @@ Feel free to request the tutorial via comments on the channel.
 <li><a href="https://docs.aws.amazon.com/">AWS Docs</a></li>
 <li><a href="https://github.com/srcecde/aws-lambda-cheatsheet">AWS Lambda Cheatsheet</a></li>
 </ul>
+
+## SAGEMAKER for the World!
